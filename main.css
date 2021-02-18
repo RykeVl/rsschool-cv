@@ -21,3 +21,7 @@ p {
 a {
     color: coral;
 }
+
+a:hover {
+    color: tomato;
+}
